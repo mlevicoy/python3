@@ -14,4 +14,4 @@
   </u>
 </p>
 
-<p>Para ver el contenido completo del curso pulsar en siguiente enlace [resumen.pdf]resumen.pdf</p>
+<p>Para ver el contenido completo del curso pulsar en siguiente enlace [resumen.pdf](resumen.pdf).</p>
