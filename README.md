@@ -1,6 +1,6 @@
 <h1 align="center">Curso básico de Python 3</h1>
 
-<p>Este curso inicial es muy completo ya que comienza desde como usar variables hasta realizar gráficos con Seaborn y Matplotlib. Entre si contenido tenemos:</p>
+<p>Este curso inicial es muy completo ya que comienza desde como usar variables hasta realizar gráficos con Seaborn y Matplotlib. Entre su contenido tenemos:</p>
 
 <p align="center">
   <u>
